@@ -47,7 +47,7 @@ Because some logic in this egg changed. Already made servers will manualy have t
 1. Stop the server.
 2. Update the already impored egg to the newer version.
 3. Change the startup (on the startup tab on the admin side) of the already made server's to: `export WINEDLLOVERRIDES="mscoree=n,b;mshtml=n,b"; wine /home/container/Torch.Server.exe -noupdate -nogui -console`
-4. Change on the same tab (bottom left) the docker image to: `ghcr.io/parkervcp/yolks:wine_latest`
+4. Change on the same tab (bottom left) the docker image to: `ghcr.io/Ptero-Eggs/yolks:wine_latest`
 5. Change the contence of the variable `WINETRICKS_RUN` to: `vcrun2022 corefonts dotnet48`
 6. Remove the `.wine` and `.cache` folder.
 7. Start the server again.

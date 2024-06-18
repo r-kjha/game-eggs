@@ -4,7 +4,7 @@
 
 A link to the site that you download the server files from.
 
-## [Documentation](https://github.com/parkervcp/eggs/blob/master/README.md)
+## [Documentation]
 
 A link to relevent documentation for the server.
 

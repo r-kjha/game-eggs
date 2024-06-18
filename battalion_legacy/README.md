@@ -2,7 +2,7 @@
 
 ## From their [Steam Depot](https://steamdb.info/app/805140)
 
-## [Documentation](https://github.com/parkervcp/eggs/blob/master/README.md)
+## Documentation
 
 BATTALION: Legacy recaptures the core of classic shooters in the final iteration of Battalion 1944. Return to the simple days of playing first person shooters with your friends. Grab your bolt action rifle in 'rifles only' mode or compete in 5v5 Search and Destroy.
 ## Install notes
