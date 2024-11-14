@@ -14,10 +14,7 @@
         "pid_limit"
     ],
     "docker_images": {
-        "ghcr.io/ptero-eggs/yolks:java_11": "ghcr.io/ptero-eggs/yolks:java_11",
-        "ghcr.io/ptero-eggs/yolks:java_16": "ghcr.io/ptero-eggs/yolks:java_16",
-        "ghcr.io/ptero-eggs/yolks:java_17": "ghcr.io/ptero-eggs/yolks:java_17",
-        "ghcr.io/ptero-eggs/yolks:java_8": "ghcr.io/ptero-eggs/yolks:java_8"
+        "Java 8": "ghcr.io/ptero-eggs/yolks:java_8"
     },
     "file_denylist": [],
     "startup": "java -Xms128M -Xmx{{SERVER_MEMORY}}M -jar Tekkit.jar",
