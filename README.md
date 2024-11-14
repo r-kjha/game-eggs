@@ -1,222 +1,222 @@
-* [7 Days to Die](7_days_to_die)
-* [Abiotic Factor](abiotic_factor)
-* [Among Us](among_us)
-  * [Among Us - BetterCrewLink Server](among_us/bettercrewlink_server)
-  * [Among Us - CrewLink Server](among_us/crewlink_server)
-  * [Among Us - Impostor Server](among_us/impostor_server)
-* [ARK: Survival Ascended](ark_survival_ascended)
-* [Ark: Survival Evolved](ark_survival_evolved)
-* [ARMA](arma)
-  * [Arma 3](arma/arma3)
-  * [Arma Reforger](arma/arma_reforger)
-* [Assetto Corsa](assetto_corsa)
-* [Astroneer](astroneer)
-* [Astro Colony](astro_colony)
-* [Avorion](avorion)
-* [Barotrauma](barotrauma)
-* [BATTALION: Legacy](battalion_legacy)
-* [BeamMP](beamng)
-  * [BeamMP](beamng/beammp)
-  * [BeamNG.drive - KISS Multiplayer](beamng/kissmp)
-* [Black Mesa](black_mesa)
-* [Citadel: Forged with fire](citadel)
-* [Classicube MCGalaxy](classicube/mcgalaxy)
-* [Clone Hero](clone_hero)
-* [Colony Survival](colony_survival)
-* [Conan Exiles](conan_exiles)
-* [Core Keeper](core_keeper)
-* [Counter-Strike](counter_strike)
-  * [Counter-Strike 2](counter_strike/counter_strike_2)
-  * [Counter-Strike: Source](counter_strike/counter_strike_source)
-* [Craftopia](craftopia)
-* [CryoFall](cryofall)
-* [CS2D](cs2d)
-* [AssaultCube](cubeengine/assaultcube)
-* [Cube 2: Sauerbraten](cubeengine/cube2)
-* [DayZ](dayz)
-* [DDNet](ddnet)
-* [DDRaceNetwork](ddracenetwork)
-* [Dead](dead_matter)
-* [Don't Starve Together](dont_starve)
-* [Doom](doom)
-  * [Zandronum](doom/zandronum)
-* [Eco](eco)
-* [Escape from Tarkov](eft)
-* [Empyrion - Galactic Survival](empyrion)
-* [Enshrouded](enshrouded)
-* [Factorio](factorio)
-  * [Clusterio](factorio/clusterio)
-* [Fistful of Frags](fof)
-* [Foundry](foundry)
-* [Foundry VTT](foundry_vtt)
-* [Frozen Flame Dedicated Server](frozen_flame)
-* [Tachyon](ftl_tachyon)
-* [Garry's Mod egg](gmod)
-* [Ground Branch](ground_branch)
-* [Grand Theft Auto](gta)
-  * [alt:v](gta/altv)
-  * [FiveM](gta/fivem)
-  * [Grand Theft Auto Connected](gta/gtac)
-  * [Multi Theft Auto](gta/mtasa)
-  * [OpenMp](gta/openmp)
-  * [ragecoop.online](gta/ragecoop)
-  * [Rage-MP](gta/ragemp)
-  * [SA:MP](gta/samp)
-* [HLDS Servers](hlds_server/rehlds)
-* [HLDS Servers](hlds_server/vanilla)
-* [HogWarp](hogwarp)
-* [What is Holdfast: Nations At War](holdfast)
-* [HumanitZ](humanitz)
-* [Hurtworld](hurtworld)
-* [Icarus](icarus)
-* [Insurgency: Sandstorm](insurgency_sandstorm)
-* [Iosoccer](iosoccer)
-* [Killing Floor 2](killing_floor_2)
-* [Kerbal Space Program](ksp)
-* [League Sandbox](leaguesandbox)
-* [Left 4 Dead](left4dead)
-* [Left 4 Dead 2](left4dead_2)
-* [Longvinter](longvinter)
-* [Los Angeles Crimes](losangelescrimes)
-* [Mindustry](mindustry)
-* [Minecraft Bedrock ](minecraft/bedrock)
-    * [Minecraft Bedrock](minecraft/bedrock/bedrock)
-    * [gomint](minecraft/bedrock/gomint)
-    * [LiteLoader Bedrock Dedicated Server](minecraft/bedrock/LiteLoader-bedrock)
-    * [Nukkit](minecraft/bedrock/nukkit)
-    * [PocketMine MP](minecraft/bedrock/pocketmine_mp)
-    * [PowerNukkitX](minecraft/bedrock/PowerNukkitX)
-  * [Purpur-Geyser-Floodgate](minecraft/crossplay/purpur-geysermc-floodgate)
-* [Minecraft Java](minecraft/java)
-    * [Cuberite](minecraft/java/cuberite)
-    * [CurseForge Generic](minecraft/java/curseforge)
-    * [Fabric](minecraft/java/fabric)
-    * [Feather](minecraft/java/feather)
-    * [Folia](minecraft/java/folia)
-    * [Forge Generic](minecraft/java/forge/forge)
-    * [FTB Modpacks](minecraft/java/ftb)
-    * [# Glowstone](minecraft/java/glowstone)
-    * [Krypton](minecraft/java/krypton)
-    * [Limbo](minecraft/java/limbo)
-    * [Magma](minecraft/java/magma)
-    * [Modrinth Generic](minecraft/java/modrinth)
-    * [Mohist](minecraft/java/mohist)
-    * [NanoLimbo](minecraft/java/nanolimbo)
-    * [NeoForge 🦊](minecraft/java/neoforge)
-    * [Paper](minecraft/java/paper)
-    * [Purpur](minecraft/java/purpur)
-    * [Quilt](minecraft/java/quilt)
-    * [Spigot](minecraft/java/spigot)
-    * [SpongeForge](minecraft/java/spongeforge)
-    * [SpongeVanilla](minecraft/java/spongevanilla)
-    * [Technic Eggs](minecraft/java/technic)
-      * [Minecraft: Attack of the B Team](minecraft/java/technic/attack-of-the-bteam)
-      * [Minecraft: Tekkit](minecraft/java/technic/Tekkit)
-      * [Minecraft: Tekkit 2](minecraft/java/technic/Tekkit-2)
-      * [Minecraft: Tekkit classic](minecraft/java/technic/tekkit-classic)
-      * [Minecraft: The 1.12.2 Pack](minecraft/java/technic/the-1-12-2-pack)
-      * [Minecraft: The 1.7.10 Pack](minecraft/java/technic/the-1-7-10-pack)
-    * [VanillaCord](minecraft/java/vanillacord)
-* [Minecraft Proxies](minecraft/proxy)
-    * [Mineraft Bedrock Proxies](minecraft/proxy/bedrock)
-      * [Waterdog PE](minecraft/proxy/bedrock/waterdog_pe)
-    * [Mineraft Cross Platform Proxies](minecraft/proxy/cross_platform)
-      * [Geyser](minecraft/proxy/cross_platform/geyser)
-      * [Waterdog server](minecraft/proxy/cross_platform/waterdog)
-    * [Minecraft Java Proxies](minecraft/proxy/java)
-      * [Travertine server](minecraft/proxy/java/travertine)
-      * [Velocity Minecraft Proxy](minecraft/proxy/java/velocity)
-      * [VIAaaS](minecraft/proxy/java/viaaas)
-      * [Waterfall server](minecraft/proxy/java/waterfall)
-* [Minetest](minetest)
-* [Modiverse](modiverse)
-* [Medal of Honor: Allied Assault](mohaa)
-* [Mordhau](mordhau)
-* [Mount & Blade II: Bannerlord](mount_blade_II_bannerlord)
-* [Myth of Empires](myth_of_empires)
-* [Necesse](necesse)
-* [Neos VR headless client](neosvr)
-* [Neverwinter Nights: Enhanced Edition](neverwinter_nights_ee)
-* [No More Room in Hell](nmrih)
-* [Nova-Life: Amboise](novalife_amboise)
-* [No Love Lost](no_love_lost)
-* [No One Survived](no_one_survived)
-* [Onset](onset)
-* [OpenArena](openarena)
-* [OpenRA Servers](openra)
-  * [OpenRA Dune2000](openra/openra_dune2000)
-  * [OpenRA](openra/openra_red_alert)
-  * [OpenRA Tiberian Dawn](openra/openra_tiberian_dawn)
-* [OpenRCT2](openrct2)
-* [OpenTTD](openttd)
-* [Open Fortress](open_fortress)
-* [Operation Harsh Doorstop](operation_harsh_doorstop)
-* [Palworld](palworld)
-* [Path Of Titans](path_of_titans)
-* [Pavlov VR](pavlov_vr)
-* [PixARK](pixark)
-* [Portal Knights](portal_knights)
-* [Post Scriptum](post_scriptum)
-* [Project Zomboid](project_zomboid)
-* [Quake Live](quake_live)
-* [Read Dead Redemption](rdr)
-  * [Red M](rdr/redm)
-* [Resonite headless client](resonite)
-* [Rimworld](rimworld)
-  * [Open World](rimworld/open_world)
-  * [Rimworld Together](rimworld/together)
-* [Rising World Legacy Java](rising_world/legacy)
-* [Rising World Unity Version](rising_world/unity)
-* [Risk of Rain 2](risk_of_rain_2)
-* [Rust Autowipe](rust/rust_autowipe)
-* [Rust Staging Branch](rust/rust_staging)
-* [Satisfactory](satisfactory)
-* [SCP: Secret Laboratory](scpsl)
-  * [SCP: Secret Laboratory](scpsl/dedicated)
-  * [SCP: Secret Laboratory Exiled](scpsl/exiled)
-* [## Smalland: Survive the Wilds](smalland_survive_the_wilds)
-* [## Solace Crafting](solace_crafting)
-* [Soldat](soldat)
-* [Sons of the Forest](sonsoftheforest)
-* [Soulmask](soulmask)
-* [SourceCoop](sourcecoop)
-* [Spacestation 14](spacestation_14)
-* [Space Engineers](space_engineers/default)
-* [Space Engineers Torch Server](space_engineers/torch)
-* [Squad](squad)
-* [Starbound](starbound)
-* [Starmade Server](starmade)
-* [Stationeers](stationeers/stationeers_bepinex)
-* [Stationeers](stationeers/stationeers_vanilla)
-* [Stormworks: Build and Rescue](stormworks)
-* [Subnautica: Nitrox Mod](subnautica_nitrox_mod)
-* [SuperTuxKart](SuperTuxKart)
-* [Sven Co-op](svencoop)
-* [Swords 'n Magic and Stuff](swords_'n_Magic_and_Stuff)
-* [Team Fortress 2 Classic](team_fortress_2_classic)
-* [Teeworlds](teeworlds)
-* [Terraria](terraria)
-  * [tModLoader](terraria/tmodloader)
-  * [TShock](terraria/tshock)
-  * [Terraria](terraria/vanilla)
-* [TerraTech Worlds](terratech_worlds)
-* [The Front](thefront)
-* [The Forest](the_forest)
-* [The Isle Evrima](the_isle/evrima)
-* [Tower Unite](tower_unite)
-* [ATSPtero - A Egg For Setting Up ATS Dedicated Server](truck-simulator/american-truck-simulator)
-* [ETS2 Ptero - A Egg For Setting Up ETS2 Dedicated Server](truck-simulator/euro-truck-simulator2)
-* [Unturned](unturned)
-* [Urban Terror](urbanterror)
-* [Valheim BepInEx](valheim/valheim_bepinex)
-* [Valheim Plus Mod](valheim/valheim_plus)
-* [Valheim](valheim/valheim_vanilla)
-* [VEIN](vein)
-* [Veloren](veloren)
-* [Vintage Story](vintage_story)
-* [V Rising BepInEx](v_rising/v_rising_bepinex)
-* [V Rising](v_rising/v_rising_vanilla)
-* [Wine Generic](wine/generic)
-* [ET: Legacy](wolfenstein_enemy_territory/etlegacy)
-* [Wurm Unlimited](wurm_unlimited)
-* [Xonotic](xonotic)
+## Game egg list
+
+Below is a categorized list of games with links to their respective server configurations and mod files. Click on each game to explore further.
+
+---
+
+### [7 Days to Die](./7_days_to_die)
+
+### [Abiotic Factor](./abiotic_factor)
+
+### Among Us
+- [BetterCrewLink Server](./among_us/bettercrewlink_server)
+- [Crewlink Server](./among_us/crewlink_server)
+- [Impostor Server](./among_us/impostor_server)
+
+### ARK
+- [Survival Ascended](./ark_survival_ascended)
+- [Survival Evolved](./ark_survival_evolved)
+
+### Arma
+- [Arma 3](./arma/arma3)
+- [Arma Reforger](./arma/arma_reforger)
+
+### Assetto Corsa
+
+### [Astroneer](./astroneer)
+
+### [Astro Colony](./astro_colony)
+
+### [Avorion](./avorion)
+
+### [Barotrauma](./barotrauma)
+
+### [BATTALION Legacy](./battalion_legacy)
+
+### BeamNG
+- [BeamMP](./beamng/beammp)
+- [KissMP](./beamng/kissmp)
+
+### [Black Mesa](./black_mesa)
+
+### [Citadel](./citadel)
+
+### ClassiCube
+- [MCGalaxy](./classicube/mcgalaxy)
+
+### [Clone Hero](./clone_hero)
+
+### [Colony Survival](./colony_survival)
+
+### [Conan Exiles](./conan_exiles)
+
+### [Core Keeper](./core_keeper)
+
+### Counter-Strike
+- [Counter-Strike 2](./counter_strike/counter_strike_2)
+- [Counter-Strike: Source](./counter_strike/counter_strike_source)
+
+### [Craftopia](./craftopia)
+
+### [CryoFall](./cryofall)
+
+### [CS2D](./cs2d)
+
+### Cube Engine
+- [AssaultCube](./cubeengine/assaultcube)
+- [Cube 2](./cubeengine/cube2)
+
+### [DayZ](./dayz)
+
+### [DDNet](./ddnet)
+
+### [DDRace Network](./ddracenetwork)
+
+### [Dead Matter](./dead_matter)
+
+### [Don't Starve](./dont_starve)
+
+### Doom
+- [Zandronum](./doom/zandronum)
+
+### [Eco](./eco)
+
+### [Escape from Tarkov (EFT)](./eft)
+
+### [Empyrion](./empyrion)
+
+### [Enshrouded](./enshrouded)
+
+### [Factorio](./factorio)
+- [Clusterio](./factorio/clusterio)
+- [Factorio Mod Update](./factorio/factorio-modupdate)
+
+### [Fistful of Frags (FoF)](./fof)
+
+### [Foundry](./foundry)
+
+### [Foundry Virtual Tabletop (VTT)](./foundry_vtt)
+
+### [Frozen Flame](./frozen_flame)
+
+### [FTL Tachyon](./ftl_tachyon)
+
+### [Garry's Mod (GMod)](./gmod)
+
+### [Ground Branch](./ground_branch)
+
+### Grand Theft Auto (GTA)
+- [AltV](./gta/altv)
+- [FiveM](./gta/fivem)
+- [GTAC](./gta/gtac)
+- [Multi Theft Auto: SA (MTA:SA)](./gta/mtasa)
+- [OpenMP](./gta/openmp)
+- [RAGE:Coop](./gta/ragecoop)
+- [RAGEMP](./gta/ragemp)
+- [SA-MP](./gta/samp)
+
+### Half-Life Dedicated Server (HLDS)
+- [ReHLDS](./hlds_server/rehlds)
+- [Vanilla](./hlds_server/vanilla)
+
+### [Hogwarp](./hogwarp)
+
+### [Holdfast](./holdfast)
+
+### [HumanitZ](./humanitz)
+
+### [Hurtworld](./hurtworld)
+
+### [Icarus](./icarus)
+
+### [Insurgency: Sandstorm](./insurgency_sandstorm)
+
+### [IOSoccer](./iosoccer)
+
+### [Killing Floor 2](./killing_floor_2)
+
+### [Kerbal Space Program (KSP)](./ksp)
+
+### [League Sandbox](./leaguesandbox)
+
+### Left 4 Dead Series
+- [Left 4 Dead](./left4dead)
+- [Left 4 Dead 2](./left4dead_2)
+
+### [Longvinter](./longvinter)
+
+### [Los Angeles Crimes](./losangelescrimes)
+
+### [Midnight Ghost Hunt](./midnight_ghost_hunt)
+
+### [Mindustry](./mindustry)
+
+### Minecraft
+- [Bedrock Edition](./minecraft/bedrock)
+  - [GoMint](./minecraft/bedrock/gomint)
+  - [LiteLoader](./minecraft/bedrock/LiteLoader-bedrock)
+  - [Nukkit](./minecraft/bedrock/nukkit)
+  - [PocketMine-MP](./minecraft/bedrock/pocketmine_mp)
+  - [PowerNukkitX](./minecraft/bedrock/PowerNukkitX)
+- [Crossplay](./minecraft/crossplay/purpur-geysermc-floodgate)
+- [Java Edition](./minecraft/java)
+  - [Cuberite](./minecraft/java/cuberite)
+  - [CurseForge](./minecraft/java/curseforge)
+  - [Fabric](./minecraft/java/fabric)
+  - [Forge](./minecraft/java/forge)
+  - [Technic](./minecraft/java/technic)
+
+### [Minetest](./minetest)
+
+### [Modiverse](./modiverse)
+
+### [Medal of Honor: Allied Assault (MoHAA)](./mohaa)
+
+### [Mordhau](./mordhau)
+
+### [Mount & Blade II: Bannerlord](./mount_blade_II_bannerlord)
+
+### [Myth of Empires](./myth_of_empires)
+
+### [Necesse](./necesse)
+
+### [Neos VR](./neosvr)
+
+### [Neverwinter Nights: Enhanced Edition](./neverwinter_nights_ee)
+
+### [Night of the Dead](./night_of_the_dead)
+
+### [No More Room in Hell (NMRIH)](./nmrih)
+
+### [Novalife Amboise](./novalife_amboise)
+
+### [No Love Lost](./no_love_lost)
+
+### [No One Survived](./no_one_survived)
+
+### [Onset](./onset)
+
+### [OpenArena](./openarena)
+
+### [OpenRA](./openra)
+- [Dune 2000](./openra/openra_dune2000)
+- [Red Alert](./openra/openra_red_alert)
+- [Tiberian Dawn](./openra/openra_tiberian_dawn)
+
+### [OpenRCT2](./openrct2)
+
+### [OpenTTD](./openttd)
+
+### [Operation Harsh Doorstop](./operation_harsh_doorstop)
+
+### [Palworld](./palworld)
+
+### [Path of Titans](./path_of_titans)
+
+### [Pavlov VR](./pavlov_vr)
+
+---
+
+For detailed configuration files, mod support, or server setup guides, refer to each game's folder. Please submit issues or pull requests for any improvements or additions.
+
+---
