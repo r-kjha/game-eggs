@@ -6,7 +6,7 @@
     },
     "exported_at": "2024-01-13T21:10:57+01:00",
     "name": "Arma 3",
-    "author": "rehlmgaming@gmail.com",
+    "author": "red_thirten@yahoo.com",
     "description": "Experience true combat gameplay in a massive military sandbox. Deploying a wide variety of single and multiplayer content, over 20 vehicles and 40 weapons, and limitless opportunities for content creation, this is the PC's premier military game. Authentic, diverse, open - Arma 3 sends you to war.",
     "features": [
         "steam_disk_space"
@@ -244,7 +244,7 @@
             "name": "[Advanced] basic.cfg URL",
             "description": "URL to a valid Arma 3 basic.cfg file. The \"Basic\" configuration file is used during server runtime for advanced network performance tuning. Because it is a required file, this URL is used to download it during installation, or if the file is found missing during startup.",
             "env_variable": "BASIC_URL",
-            "default_value": "https:\/\/raw.githubusercontent.com\/parkervcp\/eggs\/master\/game_eggs\/steamcmd_servers\/arma\/arma3\/egg-arma3-config\/basic.cfg",
+            "default_value": "https:\/\/raw.githubusercontent.com\/ptero-eggs\/eggs\/main\/game_eggs\/steamcmd_servers\/arma\/arma3\/egg-arma3-config\/basic.cfg",
             "user_viewable": false,
             "user_editable": false,
             "rules": "required|url",
