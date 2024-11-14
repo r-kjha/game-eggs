@@ -10,9 +10,9 @@
     "description": "a generic egg to run servers with wine",
     "features": null,
     "docker_images": {
-        "wine_latest": "ghcr.io\/ptero-eggs\/yolks:wine_latest",
-        "wine_staging": "ghcr.io\/ptero-eggs\/yolks:wine_staging",
-        "wine_devel": "ghcr.io\/ptero-eggs\/yolks:wine_devel"
+        "Wine (Latest)": "ghcr.io\/ptero-eggs\/yolks:wine_latest",
+        "Wine (Staging)": "ghcr.io\/ptero-eggs\/yolks:wine_staging",
+        "Wine (Devel)": "ghcr.io\/ptero-eggs\/yolks:wine_devel"
     },
     "file_denylist": [],
     "startup": "wine {{SERVER_EXECUTABLE}}",
