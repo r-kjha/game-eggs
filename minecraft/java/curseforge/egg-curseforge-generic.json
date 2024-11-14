@@ -1,13 +1,12 @@
 {
-    "_comment": "DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PANEL",
+    "_comment": "DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PTERODACTYL PANEL - PTERODACTYL.IO",
     "meta": {
-        "version": "PLCN_v1",
+        "version": "PTDL_v2",
         "update_url": null
     },
-    "exported_at": "2024-11-02T08:41:36+00:00",
+    "exported_at": "2024-11-02T09:40:55+01:00",
     "name": "CurseForge Generic",
     "author": "contact@chromozone.dev",
-    "uuid": "019bbf16-a3f3-470a-9c0b-f3995b5e032a",
     "description": "A generic egg for a CurseForge modpack.",
     "features": [
         "eula",
@@ -24,7 +23,7 @@
     "file_denylist": [],
     "startup": "java $([[ -f user_jvm_args.txt ]] && printf %s \"@user_jvm_args.txt\") -Xms128M -Xmx{{SERVER_MEMORY}}M -Dterminal.jline=false -Dterminal.ansi=true $([[ ! -f unix_args.txt ]] && printf %s \"-jar `cat .serverjar`\" || printf %s \"@unix_args.txt\")",
     "config": {
-        "files": "{\r\n    \"server.properties\": {\r\n        \"parser\": \"properties\",\r\n        \"find\": {\r\n            \"server-ip\": \"0.0.0.0\",\r\n            \"server-port\": \"{{server.allocations.default.port}}\",\r\n            \"query.port\": \"{{server.allocations.default.port}}\"\r\n        }\r\n    }\r\n}",
+        "files": "{\r\n    \"server.properties\": {\r\n        \"parser\": \"properties\",\r\n        \"find\": {\r\n            \"server-ip\": \"0.0.0.0\",\r\n            \"server-port\": \"{{server.build.default.port}}\",\r\n            \"query.port\": \"{{server.build.default.port}}\"\r\n        }\r\n    }\r\n}",
         "startup": "{\r\n    \"done\": \")! For help, type \"\r\n}",
         "logs": "{}",
         "stop": "stop"
@@ -38,43 +37,34 @@
     },
     "variables": [
         {
-            "sort": null,
             "name": "Modpack Project ID",
             "description": "The modpack project ID from the CurseForge site on the pack page, or 'zip' if installing from an uploaded server.zip file.\r\n\r\nFor example, the project Id of https:\/\/www.curseforge.com\/minecraft\/modpacks\/bofa-mods ID is 375152",
             "env_variable": "PROJECT_ID",
             "default_value": "",
             "user_viewable": true,
             "user_editable": true,
-            "rules": [
-                "required",
-                "string"
-            ]
+            "rules": "required|string",
+            "field_type": "text"
         },
         {
-            "sort": null,
             "name": "Modpack File ID",
             "description": "The file ID belonging to a specific version of a modpack. Can either be the main file or the file ID associated with the server pack.\r\n\r\nIf not provided the script will attempt to retrieve the latest server pack or client pack available.",
             "env_variable": "VERSION_ID",
             "default_value": "latest",
             "user_viewable": true,
             "user_editable": true,
-            "rules": [
-                "string"
-            ]
+            "rules": "string",
+            "field_type": "text"
         },
         {
-            "sort": null,
             "name": "CurseForge API Key",
             "description": "A CurseForge API key is required to use this egg. You can learn how to get an API key here: https:\/\/support.curseforge.com\/en\/support\/solutions\/articles\/9000208346-about-the-curseforge-api-and-how-to-apply-for-a-key",
             "env_variable": "API_KEY",
             "default_value": "",
             "user_viewable": true,
             "user_editable": true,
-            "rules": [
-                "required",
-                "string",
-                "max:60"
-            ]
+            "rules": "required|string|max:60",
+            "field_type": "text"
         }
     ]
 }
