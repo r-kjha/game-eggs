@@ -52,7 +52,7 @@ Below is a categorized list of games with links to their respective server confi
 
 #### [Core Keeper](./core_keeper)
 
-#### Counter*Strike
+#### Counter-Strike
 * [Counter-Strike 2](./counter_strike/counter_strike_2)
 * [Counter-Strike: Source](./counter_strike/counter_strike_source)
 
