@@ -4,216 +4,216 @@ Below is a categorized list of games with links to their respective server confi
 
 ---
 
-### [7 Days to Die](./7_days_to_die)
+#### [7 Days to Die](./7_days_to_die)
 
-### [Abiotic Factor](./abiotic_factor)
+#### [Abiotic Factor](./abiotic_factor)
 
-### Among Us
-- [BetterCrewLink Server](./among_us/bettercrewlink_server)
-- [Crewlink Server](./among_us/crewlink_server)
-- [Impostor Server](./among_us/impostor_server)
+#### Among Us
+* [BetterCrewLink Server](./among_us/bettercrewlink_server)
+* [Crewlink Server](./among_us/crewlink_server)
+* [Impostor Server](./among_us/impostor_server)
 
-### ARK
-- [Survival Ascended](./ark_survival_ascended)
-- [Survival Evolved](./ark_survival_evolved)
+#### ARK
+* [Survival Ascended](./ark_survival_ascended)
+* [Survival Evolved](./ark_survival_evolved)
 
-### Arma
-- [Arma 3](./arma/arma3)
-- [Arma Reforger](./arma/arma_reforger)
+#### Arma
+* [Arma 3](./arma/arma3)
+* [Arma Reforger](./arma/arma_reforger)
 
-### Assetto Corsa
+#### Assetto Corsa
 
-### [Astroneer](./astroneer)
+#### [Astroneer](./astroneer)
 
-### [Astro Colony](./astro_colony)
+#### [Astro Colony](./astro_colony)
 
-### [Avorion](./avorion)
+#### [Avorion](./avorion)
 
-### [Barotrauma](./barotrauma)
+#### [Barotrauma](./barotrauma)
 
-### [BATTALION Legacy](./battalion_legacy)
+#### [BATTALION Legacy](./battalion_legacy)
 
-### BeamNG
-- [BeamMP](./beamng/beammp)
-- [KissMP](./beamng/kissmp)
+#### BeamNG
+* [BeamMP](./beamng/beammp)
+* [KissMP](./beamng/kissmp)
 
-### [Black Mesa](./black_mesa)
+#### [Black Mesa](./black_mesa)
 
-### [Citadel](./citadel)
+#### [Citadel](./citadel)
 
-### ClassiCube
-- [MCGalaxy](./classicube/mcgalaxy)
+#### ClassiCube
+* [MCGalaxy](./classicube/mcgalaxy)
 
-### [Clone Hero](./clone_hero)
+#### [Clone Hero](./clone_hero)
 
-### [Colony Survival](./colony_survival)
+#### [Colony Survival](./colony_survival)
 
-### [Conan Exiles](./conan_exiles)
+#### [Conan Exiles](./conan_exiles)
 
-### [Core Keeper](./core_keeper)
+#### [Core Keeper](./core_keeper)
 
-### Counter-Strike
-- [Counter-Strike 2](./counter_strike/counter_strike_2)
-- [Counter-Strike: Source](./counter_strike/counter_strike_source)
+#### Counter*Strike
+* [Counter-Strike 2](./counter_strike/counter_strike_2)
+* [Counter-Strike: Source](./counter_strike/counter_strike_source)
 
-### [Craftopia](./craftopia)
+#### [Craftopia](./craftopia)
 
-### [CryoFall](./cryofall)
+#### [CryoFall](./cryofall)
 
-### [CS2D](./cs2d)
+#### [CS2D](./cs2d)
 
-### Cube Engine
-- [AssaultCube](./cubeengine/assaultcube)
-- [Cube 2](./cubeengine/cube2)
+#### Cube Engine
+* [AssaultCube](./cubeengine/assaultcube)
+* [Cube 2](./cubeengine/cube2)
 
-### [DayZ](./dayz)
+#### [DayZ](./dayz)
 
-### [DDNet](./ddnet)
+#### [DDNet](./ddnet)
 
-### [DDRace Network](./ddracenetwork)
+#### [DDRace Network](./ddracenetwork)
 
-### [Dead Matter](./dead_matter)
+#### [Dead Matter](./dead_matter)
 
-### [Don't Starve](./dont_starve)
+#### [Don't Starve](./dont_starve)
 
-### Doom
-- [Zandronum](./doom/zandronum)
+#### Doom
+* [Zandronum](./doom/zandronum)
 
-### [Eco](./eco)
+#### [Eco](./eco)
 
-### [Escape from Tarkov (EFT)](./eft)
+#### [Escape from Tarkov (EFT)](./eft)
 
-### [Empyrion](./empyrion)
+#### [Empyrion](./empyrion)
 
-### [Enshrouded](./enshrouded)
+#### [Enshrouded](./enshrouded)
 
-### [Factorio](./factorio)
-- [Clusterio](./factorio/clusterio)
-- [Factorio Mod Update](./factorio/factorio-modupdate)
+#### [Factorio](./factorio)
+* [Clusterio](./factorio/clusterio)
+* [Factorio Mod Update](./factorio/factorio-modupdate)
 
-### [Fistful of Frags (FoF)](./fof)
+#### [Fistful of Frags (FoF)](./fof)
 
-### [Foundry](./foundry)
+#### [Foundry](./foundry)
 
-### [Foundry Virtual Tabletop (VTT)](./foundry_vtt)
+#### [Foundry Virtual Tabletop (VTT)](./foundry_vtt)
 
-### [Frozen Flame](./frozen_flame)
+#### [Frozen Flame](./frozen_flame)
 
-### [FTL Tachyon](./ftl_tachyon)
+#### [FTL Tachyon](./ftl_tachyon)
 
-### [Garry's Mod (GMod)](./gmod)
+#### [Garry's Mod (GMod)](./gmod)
 
-### [Ground Branch](./ground_branch)
+#### [Ground Branch](./ground_branch)
 
-### Grand Theft Auto (GTA)
-- [AltV](./gta/altv)
-- [FiveM](./gta/fivem)
-- [GTAC](./gta/gtac)
-- [Multi Theft Auto: SA (MTA:SA)](./gta/mtasa)
-- [OpenMP](./gta/openmp)
-- [RAGE:Coop](./gta/ragecoop)
-- [RAGEMP](./gta/ragemp)
-- [SA-MP](./gta/samp)
+#### Grand Theft Auto (GTA)
+* [AltV](./gta/altv)
+* [FiveM](./gta/fivem)
+* [GTAC](./gta/gtac)
+* [Multi Theft Auto: SA (MTA:SA)](./gta/mtasa)
+* [OpenMP](./gta/openmp)
+* [RAGE:Coop](./gta/ragecoop)
+* [RAGEMP](./gta/ragemp)
+* [SA-MP](./gta/samp)
 
-### Half-Life Dedicated Server (HLDS)
-- [ReHLDS](./hlds_server/rehlds)
-- [Vanilla](./hlds_server/vanilla)
+#### Half-Life Dedicated Server (HLDS)
+* [ReHLDS](./hlds_server/rehlds)
+* [Vanilla](./hlds_server/vanilla)
 
-### [Hogwarp](./hogwarp)
+#### [Hogwarp](./hogwarp)
 
-### [Holdfast](./holdfast)
+#### [Holdfast](./holdfast)
 
-### [HumanitZ](./humanitz)
+#### [HumanitZ](./humanitz)
 
-### [Hurtworld](./hurtworld)
+#### [Hurtworld](./hurtworld)
 
-### [Icarus](./icarus)
+#### [Icarus](./icarus)
 
-### [Insurgency: Sandstorm](./insurgency_sandstorm)
+#### [Insurgency: Sandstorm](./insurgency_sandstorm)
 
-### [IOSoccer](./iosoccer)
+#### [IOSoccer](./iosoccer)
 
-### [Killing Floor 2](./killing_floor_2)
+#### [Killing Floor 2](./killing_floor_2)
 
-### [Kerbal Space Program (KSP)](./ksp)
+#### [Kerbal Space Program (KSP)](./ksp)
 
-### [League Sandbox](./leaguesandbox)
+#### [League Sandbox](./leaguesandbox)
 
-### Left 4 Dead Series
-- [Left 4 Dead](./left4dead)
-- [Left 4 Dead 2](./left4dead_2)
+#### Left 4 Dead Series
+* [Left 4 Dead](./left4dead)
+* [Left 4 Dead 2](./left4dead_2)
 
-### [Longvinter](./longvinter)
+#### [Longvinter](./longvinter)
 
-### [Los Angeles Crimes](./losangelescrimes)
+#### [Los Angeles Crimes](./losangelescrimes)
 
-### [Midnight Ghost Hunt](./midnight_ghost_hunt)
+#### [Midnight Ghost Hunt](./midnight_ghost_hunt)
 
-### [Mindustry](./mindustry)
+#### [Mindustry](./mindustry)
 
-### Minecraft
-- [Bedrock Edition](./minecraft/bedrock)
-  - [GoMint](./minecraft/bedrock/gomint)
-  - [LiteLoader](./minecraft/bedrock/LiteLoader-bedrock)
-  - [Nukkit](./minecraft/bedrock/nukkit)
-  - [PocketMine-MP](./minecraft/bedrock/pocketmine_mp)
-  - [PowerNukkitX](./minecraft/bedrock/PowerNukkitX)
-- [Crossplay](./minecraft/crossplay/purpur-geysermc-floodgate)
-- [Java Edition](./minecraft/java)
-  - [Cuberite](./minecraft/java/cuberite)
-  - [CurseForge](./minecraft/java/curseforge)
-  - [Fabric](./minecraft/java/fabric)
-  - [Forge](./minecraft/java/forge)
-  - [Technic](./minecraft/java/technic)
+#### Minecraft
+* [Bedrock Edition](./minecraft/bedrock)
+  * [GoMint](./minecraft/bedrock/gomint)
+  * [LiteLoader](./minecraft/bedrock/LiteLoader-bedrock)
+  * [Nukkit](./minecraft/bedrock/nukkit)
+  * [PocketMine-MP](./minecraft/bedrock/pocketmine_mp)
+  * [PowerNukkitX](./minecraft/bedrock/PowerNukkitX)
+* [Crossplay](./minecraft/crossplay/purpur-geysermc-floodgate)
+* [Java Edition](./minecraft/java)
+  * [Cuberite](./minecraft/java/cuberite)
+  * [CurseForge](./minecraft/java/curseforge)
+  * [Fabric](./minecraft/java/fabric)
+  * [Forge](./minecraft/java/forge)
+  * [Technic](./minecraft/java/technic)
 
-### [Minetest](./minetest)
+#### [Minetest](./minetest)
 
-### [Modiverse](./modiverse)
+#### [Modiverse](./modiverse)
 
-### [Medal of Honor: Allied Assault (MoHAA)](./mohaa)
+#### [Medal of Honor: Allied Assault (MoHAA)](./mohaa)
 
-### [Mordhau](./mordhau)
+#### [Mordhau](./mordhau)
 
-### [Mount & Blade II: Bannerlord](./mount_blade_II_bannerlord)
+#### [Mount & Blade II: Bannerlord](./mount_blade_II_bannerlord)
 
-### [Myth of Empires](./myth_of_empires)
+#### [Myth of Empires](./myth_of_empires)
 
-### [Necesse](./necesse)
+#### [Necesse](./necesse)
 
-### [Neos VR](./neosvr)
+#### [Neos VR](./neosvr)
 
-### [Neverwinter Nights: Enhanced Edition](./neverwinter_nights_ee)
+#### [Neverwinter Nights: Enhanced Edition](./neverwinter_nights_ee)
 
-### [Night of the Dead](./night_of_the_dead)
+#### [Night of the Dead](./night_of_the_dead)
 
-### [No More Room in Hell (NMRIH)](./nmrih)
+#### [No More Room in Hell (NMRIH)](./nmrih)
 
-### [Novalife Amboise](./novalife_amboise)
+#### [Novalife Amboise](./novalife_amboise)
 
-### [No Love Lost](./no_love_lost)
+#### [No Love Lost](./no_love_lost)
 
-### [No One Survived](./no_one_survived)
+#### [No One Survived](./no_one_survived)
 
-### [Onset](./onset)
+#### [Onset](./onset)
 
-### [OpenArena](./openarena)
+#### [OpenArena](./openarena)
 
-### [OpenRA](./openra)
-- [Dune 2000](./openra/openra_dune2000)
-- [Red Alert](./openra/openra_red_alert)
-- [Tiberian Dawn](./openra/openra_tiberian_dawn)
+#### [OpenRA](./openra)
+* [Dune 2000](./openra/openra_dune2000)
+* [Red Alert](./openra/openra_red_alert)
+* [Tiberian Dawn](./openra/openra_tiberian_dawn)
 
-### [OpenRCT2](./openrct2)
+#### [OpenRCT2](./openrct2)
 
-### [OpenTTD](./openttd)
+#### [OpenTTD](./openttd)
 
-### [Operation Harsh Doorstop](./operation_harsh_doorstop)
+#### [Operation Harsh Doorstop](./operation_harsh_doorstop)
 
-### [Palworld](./palworld)
+#### [Palworld](./palworld)
 
-### [Path of Titans](./path_of_titans)
+#### [Path of Titans](./path_of_titans)
 
-### [Pavlov VR](./pavlov_vr)
+#### [Pavlov VR](./pavlov_vr)
 
 ---
 
