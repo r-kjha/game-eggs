@@ -26,7 +26,7 @@
 2. [ ] Does your egg use a custom docker image?
     * [ ] Have you tried to use a generic image?
     * [ ] Did you PR the necessary changes to make it work?
-3. [ ] Have you added the egg to the main README.md and any other README files in subdirectories of the egg (e.g /game_eggs) according to the alphabetical order?
+3. [ ] Have you added the egg to the main README.md and any other README files in subdirectories of the egg according to the alphabetical order?
 4. [ ] Have you added a unique README.md for the egg you are adding according to the alphabetical order?
 5. [ ] You verify that the start command applied does not use a shell script
     * [ ] If some script is needed then it is part of a current yolk or a PR to add one
