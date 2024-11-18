@@ -42,7 +42,7 @@
             "name": "Config URL",
             "description": "URL from where to get the initial server.cfg",
             "env_variable": "CONFIG_URL",
-            "default_value": "https:\/\/raw.githubusercontent.com\/ptero-eggs\/eggs\/mohaa\/game_eggs\/mohaa\/server.cfg",
+            "default_value": "https:\/\/raw.githubusercontent.com\/ptero-eggs\/game-eggs\/main\/mohaa\/server.cfg",
             "user_viewable": false,
             "user_editable": false,
             "rules": "required|string",

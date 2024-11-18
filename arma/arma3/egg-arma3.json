@@ -244,7 +244,7 @@
             "name": "[Advanced] basic.cfg URL",
             "description": "URL to a valid Arma 3 basic.cfg file. The \"Basic\" configuration file is used during server runtime for advanced network performance tuning. Because it is a required file, this URL is used to download it during installation, or if the file is found missing during startup.",
             "env_variable": "BASIC_URL",
-            "default_value": "https:\/\/raw.githubusercontent.com\/ptero-eggs\/eggs\/main\/game_eggs\/steamcmd_servers\/arma\/arma3\/egg-arma3-config\/basic.cfg",
+            "default_value": "https:\/\/raw.githubusercontent.com\/ptero-eggs\/game-eggs\/main\/arma\/arma3\/egg-arma3-config\/basic.cfg",
             "user_viewable": false,
             "user_editable": false,
             "rules": "required|url",
