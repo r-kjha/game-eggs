@@ -12,4 +12,3 @@ These are the servers required ports
 | Port    | default |
 |---------|---------|
 | Game    | 27015   |
-
