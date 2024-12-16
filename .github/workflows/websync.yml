@@ -23,4 +23,4 @@ jobs:
           token: ${{ secrets.WEB_PAT }}
           repository: ptero-eggs/egg-web-sync
           event-type: sync
-          client-payload: '{"repo": "game"}'
+          client-payload: '{"repo": "games"}'
