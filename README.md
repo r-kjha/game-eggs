@@ -8,6 +8,8 @@ Below is a categorized list of games with links to their respective server confi
 
 #### [Abiotic Factor](./abiotic_factor)
 
+#### [Aloft](./aloft)
+
 #### Americas Army
 * [Proving Grounds](./americas_army/proving_grounds)
 
