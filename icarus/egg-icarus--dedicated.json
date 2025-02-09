@@ -67,7 +67,7 @@
             "default_value": "vcrun2022 corefonts",
             "user_viewable": false,
             "user_editable": false,
-            "rules": "required|string|in:vcrun2019 corefonts",
+            "rules": "required|string",
             "field_type": "text"
         },
         {
