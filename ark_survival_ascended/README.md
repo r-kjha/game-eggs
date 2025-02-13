@@ -98,8 +98,6 @@ See the following - <https://ark.wiki.gg/wiki/Dedicated_server_setup#RAM>
 
 ## Server Ports
 
-Note: The Peer port is not an option that can be set and will always be +1 from the Game Port!
-
 | Port            | Default |
 | --------------- | ------- |
 | Game            | 7777    |
