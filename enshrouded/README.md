@@ -59,42 +59,82 @@ On first startup, the server will generate the following structure:
 
 ```json
 {
-    "name": "My Server",
-    "saveDirectory": "./savegame",
-    "logDirectory": "./logs",
-    "ip": "0.0.0.0",
+    "enableTextChat": false,
+    "enableVoiceChat": false,
     "gamePort": 15636,
+    "gameSettings": {
+        "aggroPoolAmount": "Normal",
+        "bossDamageFactor": 1,
+        "bossHealthFactor": 1,
+        "dayTimeDuration": 1800000000000,
+        "enableDurability": true,
+        "enableGliderTurbulences": true,
+        "enableStarvingDebuff": false,
+        "enemyDamageFactor": 1,
+        "enemyHealthFactor": 1,
+        "enemyPerceptionRangeFactor": 1,
+        "enemyStaminaFactor": 1,
+        "experienceCombatFactor": 1,
+        "experienceExplorationQuestsFactor": 1,
+        "experienceMiningFactor": 1,
+        "factoryProductionSpeedFactor": 1,
+        "foodBuffDurationFactor": 1,
+        "fromHungerToStarving": 600000000000,
+        "miningDamageFactor": 1,
+        "nightTimeDuration": 720000000000,
+        "pacifyAllEnemies": false,
+        "perkCostFactor": 1,
+        "perkUpgradeRecyclingFactor": 0.5,
+        "plantGrowthSpeedFactor": 1,
+        "playerBodyHeatFactor": 1,
+        "playerHealthFactor": 1,
+        "playerManaFactor": 1,
+        "playerStaminaFactor": 1,
+        "randomSpawnerAmount": "Normal",
+        "resourceDropStackAmountFactor": 1,
+        "shroudTimeFactor": 1,
+        "tamingStartleRepercussion": "LoseSomeProgress",
+        "threatBonus": 1,
+        "tombstoneMode": "AddBackpackMaterials",
+        "weatherFrequency": "Normal"
+    },
+    "gameSettingsPreset": "Default",
+    "ip": "0.0.0.0",
+    "logDirectory": "./logs",
+    "name": "My Enshrouded Server",
     "queryPort": 15637,
+    "saveDirectory": "./savegame",
     "slotCount": 16,
     "userGroups": [
         {
-            "name": "Admin",
-            "password": "ChangeMe",
             "canAccessInventories": true,
             "canEditBase": true,
             "canExtendBase": true,
             "canKickBan": true,
+            "name": "Admin",
+            "password": "ChangeMe1",
             "reservedSlots": 0
         },
         {
-            "name": "Friend",
-            "password": "ChangeMe",
             "canAccessInventories": true,
             "canEditBase": true,
             "canExtendBase": true,
             "canKickBan": false,
+            "name": "Friend",
+            "password": "ChangeMe2",
             "reservedSlots": 1
         },
         {
-            "name": "Guest",
-            "password": "ChangeMe",
             "canAccessInventories": false,
             "canEditBase": false,
             "canExtendBase": false,
             "canKickBan": false,
+            "name": "Guest",
+            "password": "ChangeMe3",
             "reservedSlots": 3
         }
-    ]
+    ],
+    "voiceChatMode": "Proximity"
 }
 ```
 
@@ -110,5 +150,5 @@ On first startup, the server will generate the following structure:
 
 The fact that the server is not displayed in the server list is a known problem.
 
-As a workaround, you can add the server as a favourite via IP:port in the Steam server browser.
+As a workaround, you can add the server as a favourite via IP:queryport in the Steam server browser.
 The server should then be at the top of the ingame server list
