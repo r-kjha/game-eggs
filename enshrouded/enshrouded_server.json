@@ -1,7 +1,6 @@
 {
     "enableTextChat": false,
     "enableVoiceChat": false,
-    "gamePort": 15636,
     "gameSettings": {
         "aggroPoolAmount": "Normal",
         "bossDamageFactor": 1,
