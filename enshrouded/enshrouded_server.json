@@ -52,7 +52,7 @@
             "canExtendBase": true,
             "canKickBan": true,
             "name": "Admin",
-            "password": "Admin3DG$£",
+            "password": "ChangeMe1",
             "reservedSlots": 0
         },
         {
@@ -61,7 +61,7 @@
             "canExtendBase": true,
             "canKickBan": false,
             "name": "Friend",
-            "password": "Friendbv2^dKs",
+            "password": "ChangeMe2",
             "reservedSlots": 1
         },
         {
@@ -70,7 +70,7 @@
             "canExtendBase": false,
             "canKickBan": false,
             "name": "Guest",
-            "password": "Guest(5£ldsC[",
+            "password": "ChangeMe3",
             "reservedSlots": 3
         }
     ],
