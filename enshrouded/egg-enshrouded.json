@@ -4,7 +4,7 @@
         "version": "PTDL_v2",
         "update_url": "https:\/\/pterodactyleggs.com\/egg\/6735ff484924a4e9bbcb9a9d\/download"
     },
-    "exported_at": "2025-02-25T16:24:22+01:00",
+    "exported_at": "2025-02-25T19:29:13+01:00",
     "name": "Enshrouded",
     "author": "ptero@redbananaofficial.com",
     "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.",
@@ -52,7 +52,7 @@
         },
         {
             "name": "[USER GROUP] ''Admin'' Group Password",
-            "description": "Password for the Admin user-group. Players using this password get:\r\n\r\n- canAccessInventories: true\r\n- canEditBase: true\r\n- canExtendBase: true\r\n- canKickBan: true",
+            "description": "Password for the Admin user-group. Players using this password get:\r\nThe passwords for the usergroups can not all be the same or empty\r\n\r\n- canAccessInventories: true\r\n- canEditBase: true\r\n- canExtendBase: true\r\n- canKickBan: true. The passwords for the usergroups can not all be the same\/ empty",
             "env_variable": "SRV_PW",
             "default_value": "ChangeMe1",
             "user_viewable": true,
@@ -62,7 +62,7 @@
         },
         {
             "name": "[USER GROUP] ''Friend'' Group Password",
-            "description": "Password for the Friend user-group. Players using this password get:\r\n\r\n- canAccessInventories: true\r\n- canEditBase: true\r\n- canExtendBase: true\r\n- canKickBan: false",
+            "description": "Password for the Friend user-group. Players using this password get:\r\nThe passwords for the usergroups can not all be the same or empty\r\n\r\n- canAccessInventories: true\r\n- canEditBase: true\r\n- canExtendBase: true\r\n- canKickBan: false. The passwords for the usergroups can not all be the same\/ empty",
             "env_variable": "SRV_PW2",
             "default_value": "ChangeMe2",
             "user_viewable": true,
@@ -72,7 +72,7 @@
         },
         {
             "name": "[USER GROUP] ''Guest'' Group Password",
-            "description": "Password for the Guest user-group. Players using this password get:\r\n\r\n- canAccessInventories: false\r\n- canEditBase: false\r\n- canExtendBase: false\r\n- canKickBan: false",
+            "description": "Password for the Guest user-group. Players using this password get:\r\nThe passwords for the usergroups can not all be the same or empty\r\n\r\n- canAccessInventories: false\r\n- canEditBase: false\r\n- canExtendBase: false\r\n- canKickBan: false. The passwords for the usergroups can not all be the same\/ empty",
             "env_variable": "SRV_PW3",
             "default_value": "ChangeMe3",
             "user_viewable": true,
