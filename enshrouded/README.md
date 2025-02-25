@@ -23,11 +23,10 @@ Ignite the Ancient power of the Flame, and piece together the fragments of a sto
 
 ### Server Ports
 
-Enshrouded requires up to 2 ports. Queryport must be GAMEPORT +1 
+By default Enshrouded requires up to 1 port.
 
 | Port    | default       |
 |---------|---------------|
-| Game    |     15636     |
 | Query   |     15637     |
 
 ## Configuration
@@ -48,7 +47,6 @@ Go to your **Pterodactyl Panel → Server Settings**, where you can edit:
   - **Friend Group (`SRV_PW2`)** – Grants reduced admin privileges.
   - **Guest Group (`SRV_PW3`)** – General access for users.
 - **Max Players (`MAX_PLAYERS`)** – Number of player slots (1-16).
-- **Steam Query Port (`QUERY_PORT`)** – The query port for server communication.
 
 Other settings, such as **game settings, IP binding, and log locations**, are still managed in `enshrouded_server.json`
 
@@ -61,7 +59,6 @@ On first startup, the server will generate the following structure:
 {
     "enableTextChat": false,
     "enableVoiceChat": false,
-    "gamePort": 15636,
     "gameSettings": {
         "aggroPoolAmount": "Normal",
         "bossDamageFactor": 1,
