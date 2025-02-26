@@ -12,7 +12,6 @@
             </a>
             <br />
             <a href="https://github.com/parkervcp/eggs/commits?author=lilkingjr1" title="Codes">💻</a>
-            <a href="https://github.com/parkervcp/eggs/commits?author=lilkingjr1" title="Maintains">🔨</a>
         </td>
     </tr>
 </table>
