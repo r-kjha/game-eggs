@@ -12,7 +12,7 @@
         "steam_disk_space"
     ],
     "docker_images": {
-        "ghcr.io\/ptero-eggs\/yolks:wine_staging": "ghcr.io\/ptero-eggs\/yolks:wine_staging"
+        "ghcr.io\/ptero-eggs\/yolks:wine_latest": "ghcr.io\/ptero-eggs\/yolks:wine_latest"
     },
     "file_denylist": [],
     "startup": "cd \/home\/container\/dedicated_server; xvfb-run --auto-servernum wine pk_dedicated_server.exe -config server_config.json -log server.log",

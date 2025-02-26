@@ -12,7 +12,7 @@
         "steam_disk_space"
     ],
     "docker_images": {
-        "ghcr.io\/ptero-eggs\/yolks:wine_staging": "ghcr.io\/ptero-eggs\/yolks:wine_staging"
+        "ghcr.io\/ptero-eggs\/yolks:wine_latest": "ghcr.io\/ptero-eggs\/yolks:wine_latest"
     },
     "file_denylist": [],
     "startup": "[ ! -d \"${SAVE_PATH}\/w_{{SAVE_NAME}}\" ] && wine Aloft.exe -batchmode -nographics -server -logFile create.log create#{{SAVE_NAME}}#{{NUM_ISLANDS}}#{{CREATIVE_MODE}}# log#ERROR# ; wine Aloft.exe -batchmode -nographics -server -logFile server.log load#{{SAVE_NAME}}# servername#{{SERVER_NAME}}# log#ERROR# isvisible#{{IS_VISIBLE}}# privateislands#{{PRIVATE_ISLANDS}}# playercount#{{MAX_PLAYERS}}# serverport#{{SERVER_PORT}}#  $(printf \"admin#%s# \" ${ADMIN_IDS}) & tail -F server.log -c0 --pid=$?",

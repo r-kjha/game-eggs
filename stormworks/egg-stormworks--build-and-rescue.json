@@ -12,7 +12,7 @@
         "steam_disk_space"
     ],
     "docker_images": {
-        "wine_staging": "ghcr.io\/ptero-eggs\/yolks:wine_staging"
+        "wine_latest": "ghcr.io\/ptero-eggs\/yolks:wine_latest"
     },
     "file_denylist": [],
     "startup": "xvfb-run wine server64.exe +server_dir \/home\/container\/server_data",

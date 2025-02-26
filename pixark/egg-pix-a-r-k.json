@@ -12,7 +12,7 @@
         "steam_disk_space"
     ],
     "docker_images": {
-        "ghcr.io\/ptero-eggs\/yolks:wine_devel": "ghcr.io\/ptero-eggs\/yolks:wine_devel"
+        "ghcr.io\/ptero-eggs\/yolks:wine_latest": "ghcr.io\/ptero-eggs\/yolks:wine_latest"
     },
     "file_denylist": [],
     "startup": "wine64 .\/ShooterGame\/Binaries\/Win64\/PixARKServer.exe \"CubeWorld_Light?listen?DelayRegisterServer=True?bRawSockets=True?SessionName=\"{{SRV_NAME}}\"?AltSaveDirectoryName=PteroPixArk?ServerPassword={{ARK_PASSWORD}}?ServerAdminPassword={{ARK_ADMIN_PASSWORD}}?MaxPlayers={{MAX_PLAYERS}}?RCONEnabled=True?RCONPort={{RCPORT}}\" -Seed=12345 -OreSeed=1234 -ConfigsUseAltDir -server -gameplaylogging -log -CULTUREFORCOOKING=en -NoBattlEye -QueryPort={{QPORT}} -Port={{SERVER_PORT}} -CubePort={{CUBEPORT}} -cubeworld={{SRV_NAME}} -nosteamclient -NoHangDetection",
