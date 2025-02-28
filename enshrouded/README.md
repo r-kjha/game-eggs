@@ -23,11 +23,11 @@ Ignite the Ancient power of the Flame, and piece together the fragments of a sto
 
 ### Server Ports
 
-By default Enshrouded requires up to 1 port.
+By default Enshrouded requires 1 port.
 
 | Port    | default       |
 |---------|---------------|
-| Query   |     15637     |
+|Game/Query   |     15637     |
 
 ## Configuration
 
