@@ -224,6 +224,8 @@ Below is a categorized list of games with links to their respective server confi
 
 #### [Pavlov VR](./pavlov_vr)
 
+#### [Puck](./puck)
+
 #### [Sonic Robo Blast 2 (SRB2)](./sonic_robo_blast_2)
 
 ---
