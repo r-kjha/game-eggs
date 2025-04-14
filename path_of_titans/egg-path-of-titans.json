@@ -4,7 +4,7 @@
         "version": "PTDL_v2",
         "update_url": null
     },
-    "exported_at": "2024-04-26T06:39:41+00:00",
+    "exported_at": "2025-04-14T10:05:12+08:00",
     "name": "Path Of Titans",
     "author": "danielivanvladimir.revin@gmail.com",
     "description": "Path of Titans is a multiplayer dinosaur survival video game. Survive as a dinosaur in a rich ecosystem filled with intelligent AI creatures and up to 200 other players.",
@@ -85,7 +85,7 @@
             "default_value": "Local",
             "user_viewable": true,
             "user_editable": true,
-            "rules": "required|string|max:8",
+            "rules": "required|string|in:Local,Remote",
             "field_type": "text"
         },
         {
@@ -105,7 +105,7 @@
             "default_value": "7778",
             "user_viewable": true,
             "user_editable": false,
-            "rules": "required|numeric|max:8",
+            "rules": "required|integer|between:1024,65535",
             "field_type": "text"
         },
         {
@@ -115,7 +115,7 @@
             "default_value": "7779",
             "user_viewable": true,
             "user_editable": false,
-            "rules": "required|numeric|max:8",
+            "rules": "required|integer|between:1024,65535",
             "field_type": "text"
         }
     ]
