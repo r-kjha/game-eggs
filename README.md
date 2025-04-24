@@ -57,6 +57,8 @@ Below is a categorized list of games with links to their respective server confi
 
 #### [Conan Exiles](./conan_exiles)
 
+#### [Contagion)](./contagion)
+
 #### [Core Keeper](./core_keeper)
 
 #### Counter-Strike
