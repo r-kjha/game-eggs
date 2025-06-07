@@ -4,10 +4,10 @@
         "version": "PTDL_v2",
         "update_url": null
     },
-    "exported_at": "2025-05-30T08:17:51+00:00",
+    "exported_at": "2025-06-08T08:14:18+00:00",
     "name": "SCP:SL - Exiled",
     "author": "eggs@purpleflaghosting.com",
-    "description": "Egg for SCP: Secret Laboratory Dedicated Linux Server with Exiled Plugin Framework - https:\/\/github.com\/ExMod-Team\/EXILED",
+    "description": "Egg for SCP: Secret Laboratory Dedicated Linux Server with Exiled Plugin Framework - https:\/\/github.com\/ExSLMod-Team\/EXILED",
     "features": [
         "steam_disk_space"
     ],
